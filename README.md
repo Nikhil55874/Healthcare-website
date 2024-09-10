@@ -1,4 +1,4 @@
-# Medcare
+# Healthcare
 
 <p style="text-align: justify;" align="center">The main feature of this website are:
 
